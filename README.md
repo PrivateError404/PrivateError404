@@ -1,5 +1,2 @@
-Hmmmm.......
-<!---
-PrivateError404/PrivateError404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##About Me
+I'm a developer and maker interested in robotics, embedded systems, computer vision, artificial intelligence, and 3D printing. I enjoy building projects that combine hardware and software, from Raspberry Pi and Arduino systems to machine learning applications and automation tools. This is where I share projects, experiments, and open-source code as I continue learning and exploring new technologies. I'm always looking to improve my skills, tackle interesting challenges, and build things that solve real-world problems.
